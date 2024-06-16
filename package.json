@@ -11,6 +11,9 @@
   "license": "ISC",
   "dependencies": {},
   "workspaces": [
-    "mongodb"
+    "mongodb",
+    "neo4j",
+    "postgresql",
+    "redis"
   ]
 }
